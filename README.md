@@ -1,4 +1,4 @@
-# 3D-computer-lab
+# 3D-computer-lab-simulation
 This project contain Table,Chair,Monitor,Keyboard,Mouse,Projector etc. This is an opengl project.
 
 # Team Members:
